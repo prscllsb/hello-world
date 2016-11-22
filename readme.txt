@@ -1,1 +1,2 @@
 Hello!
+Just trying Git.
